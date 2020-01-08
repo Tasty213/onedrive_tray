@@ -1,3 +1,5 @@
+Note this program is still in development
+
 A simple program to create a system tray icon and display program status
 
 Adds a system tray to the onedrive file synchronization program https://github.com/abraunegg/onedrive.
